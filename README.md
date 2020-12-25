@@ -1,12 +1,14 @@
 MultiVariabled so-called Rock Scissors Paper Game
 
 ==============
+
 Mehmet Semih Babacan
 Fall 2020
 *Python 3.9.0*
+
 ------------
 
-Usage
+Representation of the Options
 ------------
 ![](Game_explanation.png)
 Run Command:
