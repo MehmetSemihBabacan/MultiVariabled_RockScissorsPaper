@@ -1,15 +1,16 @@
 MultiVariabled so-called Rock Scissors Paper Game
-
 ==============
 
 Mehmet Semih Babacan
+
 Fall 2020
+
 *Python 3.9.0*
 
-------------
 
 Representation of the Options
 ------------
+
 ![](Game_explanation.png)
 Run Command:
 
@@ -20,4 +21,5 @@ Run Command:
 	- 
 
 What I learned:
+
   how to use different sides of the random library
